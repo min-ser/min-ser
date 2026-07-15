@@ -275,11 +275,11 @@ https://github.com/min-ser
 
 Blog
 
-https://billackcode.github.io/
+https://min-ser.github.io
 
 Email
 
-(Your Email)
+blackcode-@naver.com
 
 ---
 
