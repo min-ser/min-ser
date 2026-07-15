@@ -1,38 +1,296 @@
-### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIBlackCode&count_bg=%23DBC117&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
 
-### [Gitblog URL](https://iiblackcode.github.io/)
-<!--
-**IIBlackCode/IIBlackCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Minseo Kim
 
-Here are some ideas to get you started:
+### Azure AI Platform Engineer | Platform Architect | DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enterprise AI Platform · Microsoft Fabric · Azure AI Foundry · Azure OpenAI · AKS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IIBlackCode&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=IIBlackCode&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/min-ser)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBlackCode&show_icons=true&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/min-ser?style=social)](https://github.com/min-ser)
+[![GitHub stars](https://img.shields.io/github/stars/min-ser?affiliations=OWNER&style=social)](https://github.com/min-ser)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIBlackCode&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
-# 포트폴리오
-![portfolio](./portfolio/03.png)
-![portfolio](./portfolio/04.png)
-![portfolio](./portfolio/05.png)
-![portfolio](./portfolio/06.png)
-![portfolio](./portfolio/07.png)
-![portfolio](./portfolio/08.png)
-![portfolio](./portfolio/09.png)
+# 🙋 About Me
+
+Azure AI Platform Engineer currently working at **Megazone Cloud**.
+
+I design, build and operate Enterprise AI Platform based on Microsoft Azure.
+
+My primary interests are
+
+- ☁ Azure Cloud
+- 🤖 Azure AI Foundry
+- 🧠 Azure OpenAI
+- 📊 Microsoft Fabric
+- ⚙ AKS
+- 🚀 DevOps
+- 🔒 Zero Trust Security
+- 🧩 Platform Architecture
+
+I enjoy solving difficult infrastructure problems and automating repetitive operational tasks.
 
 ---
+
+# 🚀 Current Focus
+
+- Microsoft Fabric Platform
+- Fabric Capacity Autoscale
+- Azure AI Foundry
+- Azure OpenAI
+- Enterprise RAG
+- Agentic AI
+- Azure DevOps
+- Kubernetes
+- Python Automation
+- Private Link Architecture
+- Managed Identity
+- AI Platform Architecture
+
+---
+
+# 💼 Career
+
+### Megazone Cloud
+
+**Azure AI Platform Engineer**
+
+Platform Architect / AI Platform Engineering
+
+Responsible for
+
+- Enterprise AI Platform
+- Microsoft Fabric
+- Azure AI Foundry
+- Azure OpenAI
+- Azure Kubernetes Service
+- Private Link
+- Azure Networking
+- Automation
+- DevOps
+
+---
+
+# 🏆 Major Projects
+
+## 🚀 Microsoft Fabric Platform
+
+Enterprise Microsoft Fabric Platform Engineering
+
+- Fabric Administration
+- Capacity Management
+- Fabric Autoscale
+- Warehouse
+- Semantic Model
+- Data Pipeline
+- Notebook
+- Git Integration
+
+---
+
+## 🤖 Azure AI Platform
+
+Enterprise AI Platform
+
+- Azure AI Foundry
+- Azure OpenAI
+- AI Search
+- Prompt Flow
+- Responsible AI
+
+---
+
+## ☁ Azure Infrastructure
+
+Cloud Architecture
+
+- Private Endpoint
+- Private DNS
+- NSG
+- Azure Firewall
+- Application Gateway
+- APIM
+
+---
+
+## ⚙ DevOps
+
+CI/CD Automation
+
+- GitHub Actions
+- GitLab CI
+- ArgoCD
+- Docker
+- Kubernetes
+
+---
+
+## 🔒 Security
+
+Zero Trust Architecture
+
+- Managed Identity
+- Workload Identity
+- RBAC
+- Key Vault
+- Private Link
+
+---
+
+# 🛠 Tech Stack
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes"/>
+
+</p>
+
+---
+
+## AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+- Azure AI Foundry
+- Azure OpenAI
+- LangChain
+- Semantic Kernel
+- RAG
+- Agentic AI
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=github,gitlab,docker,kubernetes,bash"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+</p>
+
+Microsoft Fabric
+
+Power BI
+
+SQL Server
+
+---
+
+# 📂 Featured Repositories
+
+| Project | Description |
+|----------|-------------|
+| Fabric Autoscale | Microsoft Fabric Capacity Auto Scaling |
+| Azure AI Validation Gate | Azure AI Validation System |
+| Azure Architecture Samples | Enterprise Azure Architecture |
+| KMS Algorithm | Coding Test Practice |
+| LangChain Study | LLM & AI Study |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=min-ser&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=min-ser&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=min-ser&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+- Microsoft Developer Program Member
+- Information Processing Engineer
+- Bachelor of Artificial Intelligence
+- Azure AI Platform Engineer
+- Microsoft Fabric Platform Engineer
+
+---
+
+# 📝 Tech Interests
+
+- Agentic AI
+- Microsoft Fabric
+- Graph RAG
+- Knowledge Graph
+- Ontology
+- MCP
+- Azure AI Foundry
+- LLMOps
+- Multi Agent System
+- Enterprise AI Platform
+
+---
+
+# 📫 Contact
+
+GitHub
+
+https://github.com/min-ser
+
+Blog
+
+https://billackcode.github.io/
+
+Email
+
+(Your Email)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub ⭐
+
+Always learning.
+
+Always building.
+
+Always improving.
+
+</div>
